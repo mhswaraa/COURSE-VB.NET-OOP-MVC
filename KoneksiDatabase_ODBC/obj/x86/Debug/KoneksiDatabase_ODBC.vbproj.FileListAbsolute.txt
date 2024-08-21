@@ -1,0 +1,22 @@
+D:\DEVELOPMENT\BACK END\VB.net\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\bin\Debug\KoneksiDatabase_ODBC.exe
+D:\DEVELOPMENT\BACK END\VB.net\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\bin\Debug\KoneksiDatabase_ODBC.pdb
+D:\DEVELOPMENT\BACK END\VB.net\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\bin\Debug\KoneksiDatabase_ODBC.xml
+D:\DEVELOPMENT\BACK END\VB.net\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.Resources.resources
+D:\DEVELOPMENT\BACK END\VB.net\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.vbproj.GenerateResource.Cache
+D:\DEVELOPMENT\BACK END\VB.net\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.exe
+D:\DEVELOPMENT\BACK END\VB.net\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.xml
+D:\DEVELOPMENT\BACK END\VB.net\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.pdb
+D:\DEVELOPMENT\BACK END\VB.net\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.FormMataKuliah.resources
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.exe
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.xml
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.pdb
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\bin\Debug\KoneksiDatabase_ODBC.exe
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\bin\Debug\KoneksiDatabase_ODBC.pdb
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\bin\Debug\KoneksiDatabase_ODBC.xml
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.Resources.resources
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.vbproj.GenerateResource.Cache
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.FormMahasiswa.resources
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\KoneksiDatabase_ODBC\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.FormDosen.resources
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\TEMPLATE_OOP_MVC_2_VARIABEL_V1\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.exe
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\TEMPLATE_OOP_MVC_2_VARIABEL_V1\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.xml
+D:\DEVELOPMENT\BACK END\VB.net\1. KONSEP OOP ODBC (Object Oriented Programming)\TEMPLATE_OOP_MVC_2_VARIABEL_V1\KoneksiDatabase_ODBC\obj\x86\Debug\KoneksiDatabase_ODBC.pdb
